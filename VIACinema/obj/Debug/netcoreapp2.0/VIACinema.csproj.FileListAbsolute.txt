@@ -1,0 +1,24 @@
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\VIACinema.deps.json
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\VIACinema.runtimeconfig.json
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\VIACinema.runtimeconfig.dev.json
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\VIACinema.dll
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\VIACinema.pdb
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\VIACinema.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\VIACinema.AssemblyInfoInputs.cache
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\VIACinema.AssemblyInfo.cs
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\VIACinema.dll
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\VIACinema.pdb
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\VIACinema.csprojAssemblyReference.cache
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\obj\Debug\netcoreapp2.0\VIACinema.csprojAssemblyReference.cache
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\obj\Debug\netcoreapp2.0\VIACinema.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\obj\Debug\netcoreapp2.0\VIACinema.AssemblyInfoInputs.cache
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\obj\Debug\netcoreapp2.0\VIACinema.AssemblyInfo.cs
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\obj\Debug\netcoreapp2.0\VIACinema.dll
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\obj\Debug\netcoreapp2.0\VIACinema.pdb
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\bin\Debug\netcoreapp2.0\VIACinema.deps.json
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\bin\Debug\netcoreapp2.0\VIACinema.runtimeconfig.json
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\bin\Debug\netcoreapp2.0\VIACinema.runtimeconfig.dev.json
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\bin\Debug\netcoreapp2.0\VIACinema.dll
+C:\Users\Konstantin Ralev\Desktop\VIACinema\DNP-master\VIACinema\VIACinema\bin\Debug\netcoreapp2.0\VIACinema.pdb

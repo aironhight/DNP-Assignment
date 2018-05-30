@@ -1,0 +1,35 @@
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.deps.json
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.runtimeconfig.json
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.runtimeconfig.dev.json
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.dll
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.pdb
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.csprojAssemblyReference.cache
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.csproj.CoreCompileInputs.cache
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.AssemblyInfoInputs.cache
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.AssemblyInfo.cs
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.dll
+C:\Users\milen\Documents\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.pdb
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.deps.json
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.runtimeconfig.json
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.runtimeconfig.dev.json
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.dll
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.pdb
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.csprojAssemblyReference.cache
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.AssemblyInfoInputs.cache
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.AssemblyInfo.cs
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.dll
+C:\Users\Vasil\Documents\GitHub\DNP\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.pdb
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.deps.json
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.runtimeconfig.json
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.runtimeconfig.dev.json
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.dll
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\bin\Debug\netcoreapp2.0\DNPCinema.pdb
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.AssemblyInfoInputs.cache
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.AssemblyInfo.cs
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.dll
+C:\Users\Konstantin Ralev\Desktop\DNP-master (1)\DNP-master\DNPCinema\DNPCinema\obj\Debug\netcoreapp2.0\DNPCinema.pdb
